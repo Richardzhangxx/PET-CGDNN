@@ -8,7 +8,7 @@ deep learning (DL) research has facilitated high-performance DL-AMR approaches. 
 
 【**RML2016.10a**】:
 ![2016A](https://user-images.githubusercontent.com/56213845/127735649-520463f2-32ac-4eb7-8884-aaaa0bf7f6f9.png)
-【**RML2016.10**b】:
+【**RML2016.10b**】:
 ![2016B](https://user-images.githubusercontent.com/56213845/127735650-018c1979-a680-4fb1-ac8c-695b7acef596.png)
 【**RML2018.01a**】：
 ![2018](https://user-images.githubusercontent.com/56213845/127735652-7ca1b4c3-0c5c-43c4-a3cb-65bf3d5f96b7.png)
