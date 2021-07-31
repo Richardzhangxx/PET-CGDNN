@@ -15,6 +15,3 @@ deep learning (DL) research has facilitated high-performance DL-AMR approaches. 
 
 【**Model comparison on three datasets (A:RML2016.10a, B: RML2016.10b, C: RML2018.01a)**】:
 ![image](https://user-images.githubusercontent.com/56213845/127735733-ed7bddb6-6325-42b1-ab07-9b171023970c.png)
-
-
-
