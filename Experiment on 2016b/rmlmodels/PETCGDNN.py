@@ -1,14 +1,5 @@
-"""CLDNNLike model for RadioML.
-
-# Reference:
-
-- [CONVOLUTIONAL,LONG SHORT-TERM MEMORY, FULLY CONNECTED DEEP NEURAL NETWORKS ]
-
-Adapted from code contributed by Mika.
-"""
 import os
 import tensorflow as tf
-WEIGHTS_PATH = ('resnet_like_weights_tf_dim_ordering_tf_kernels.h5')
 import math
 from keras.models import Model
 from keras.layers import Input, Dense, Conv1D, MaxPool1D, ReLU, Dropout, Softmax, concatenate, Flatten, Reshape, \
