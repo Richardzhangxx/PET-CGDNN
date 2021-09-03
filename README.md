@@ -22,7 +22,7 @@ If this paper is helpful to your research, please cite:
 
 # Content
 
-【**System Model**】 
+【**Model Structure**】 
 
 <img src="https://user-images.githubusercontent.com/56213845/131948225-e5950551-3099-43fa-ad24-cd4b5ea28c66.png" width="50%">
 
