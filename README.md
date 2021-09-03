@@ -22,6 +22,10 @@ If this paper is helpful to your research, please cite:
 
 # Content
 
+【**System Model**】 
+
+<img src="https://user-images.githubusercontent.com/56213845/131948225-e5950551-3099-43fa-ad24-cd4b5ea28c66.png" width="50%">
+
 【**RML2016.10a**】
 
 <img src="https://user-images.githubusercontent.com/56213845/127735649-520463f2-32ac-4eb7-8884-aaaa0bf7f6f9.png" width="50%">
