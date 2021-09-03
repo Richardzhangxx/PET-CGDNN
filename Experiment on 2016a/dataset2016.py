@@ -6,8 +6,8 @@ from numpy import linalg as la
 maxlen=128
 
 def load_data(filename=r'.\RML2016.10a_dict.pkl'):
-    Xd =pickle.load(open(filename,'rb'),encoding='iso-8859-1')#Xd(1cd 20W,2,128) 10calss*20SNR*6000samples
-    mods,snrs = [sorted(list(set([k[j] for k in Xd.keys()]))) for j in [0,1] ] #mods['8PSK', 'AM-DSB', 'BPSK', 'CPFSK', 'GFSK', 'PAM4', 'QAM16', 'QAM64', 'QPSK', 'WBFM']
+    Xd =pickle.load(open(filename,'rb'),encoding='iso-8859-1')
+    mods,snrs = [sorted(list(set([k[j] for k in Xd.keys()]))) for j in [0,1] ]
     X = []
     lbl = []
     train_idx=[]
@@ -17,7 +17,7 @@ def load_data(filename=r'.\RML2016.10a_dict.pkl'):
 
     for mod in mods:
         for snr in snrs:
-            X.append(Xd[(mod,snr)])     #ndarray(6000,2,128)
+            X.append(Xd[(mod,snr)])  
             for i in range(Xd[(mod,snr)].shape[0]):
                 lbl.append((mod,snr))
             train_idx+=list(np.random.choice(range(a*1000,(a+1)*1000), size=600, replace=False))
