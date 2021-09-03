@@ -35,7 +35,8 @@ If this paper is helpful to your research, please cite:
 <img src="https://user-images.githubusercontent.com/56213845/127735652-7ca1b4c3-0c5c-43c4-a3cb-65bf3d5f96b7.png" width="50%">
 
 【**Model comparison on three datasets (A:RML2016.10a, B: RML2016.10b, C: RML2018.01a)**】:
-: ![image](https://user-images.githubusercontent.com/56213845/127735733-ed7bddb6-6325-42b1-ab07-9b171023970c.png) :
+
+![image](https://user-images.githubusercontent.com/56213845/127735733-ed7bddb6-6325-42b1-ab07-9b171023970c.png)
 
 # Datasets
 
