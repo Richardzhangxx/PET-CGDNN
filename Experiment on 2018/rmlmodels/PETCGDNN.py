@@ -1,14 +1,5 @@
-"""CLDNNLike model for RadioML.
-
-# Reference:
-
-- [CONVOLUTIONAL,LONG SHORT-TERM MEMORY, FULLY CONNECTED DEEP NEURAL NETWORKS ]
-
-Adapted from code contributed by Mika.
-"""
 import os
 import tensorflow as tf
-WEIGHTS_PATH = ('resnet_like_weights_tf_dim_ordering_tf_kernels.h5')
 import math
 from keras.models import Model
 from keras.layers import Input, Dense, Conv1D, MaxPool1D, ReLU, Dropout, Softmax, concatenate, Flatten, Reshape, \
@@ -82,7 +73,7 @@ import keras
 from keras.utils.vis_utils import plot_model
 
 if __name__ == '__main__':
-    model = CLDNN(None, classes=10)
+    model = PETCGDNN(None, classes=10)
 
     adam = keras.optimizers.Adam(lr=0.001, beta_1=0.9, beta_2=0.999, epsilon=None, decay=0.0, amsgrad=False)
     model.compile(loss='categorical_crossentropy', metrics=['accuracy'], optimizer=adam)
