@@ -1,7 +1,7 @@
 # PET-CGDNN
 Source code for the paper "An Efficient Deep Learning Model for Automatic Modulation Recognition Based on Parameter Estimation and Transformation", which is pubulished in IEEE Communications Letters. 
 
-The article is available here：[An Efficient Deep Learning Model for Automatic Modulation Recognition Based on Parameter Estimation and Transformation](https://ieeexplore.ieee.org/abstract/document/9507514)
+The article is available here：[An Efficient Deep Learning Model for Automatic Modulation Recognition Based on Parameter Estimation and Transformation](http://arxiv.org/abs/2110.04980)
 
 If you have any question, please contact e-mail: zhangxx8023@gmail.com
 
