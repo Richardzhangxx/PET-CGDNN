@@ -13,11 +13,14 @@ deep learning (DL) research has facilitated high-performance DL-AMR approaches. 
 If this paper is helpful to your research, please cite:
 
     @article{zhang2021efficient,
-        title={An Efficient Deep Learning Model for Automatic Modulation Recognition Based on Parameter Estimation and Transformation},
-        author={Zhang, Fuxin and Luo, Chunbo and Xu, Jialang and Luo, Yang},
-        journal={IEEE Communications Letters},
-        year={2021},
-        publisher={IEEE}
+    author={Zhang, Fuxin and Luo, Chunbo and Xu, Jialang and Luo, Yang},
+    journal={IEEE Communications Letters}, 
+    title={An Efficient Deep Learning Model for Automatic Modulation Recognition Based on Parameter Estimation and Transformation}, 
+    year={2021},
+    volume={25},
+    number={10},
+    pages={3287-3290},
+    doi={10.1109/LCOMM.2021.3102656}
     }
 
 # Content
