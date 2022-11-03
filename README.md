@@ -49,6 +49,13 @@ If this paper is helpful to your research, please cite:
 
 [RML2016.10a, RML2016.10b, and RML2018.01a](https://www.deepsig.ai/datasets)
 
+# Remarks
+The equation (2) should be:
+
+![1667459314165](https://user-images.githubusercontent.com/56213845/199664259-cae22205-9a69-4cbd-884b-200f9bddf6ed.png)
+
+(This formula had some writting error in the original paper and has been updated in the Arxiv version.)
+
 # Environment
 This model is implemented in Keras, and the environment setting is:
 * Python 3.6.10
